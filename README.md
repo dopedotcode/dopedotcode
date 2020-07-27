@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 -->
 [![Sabuhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dopedotcode&show_icons=true&theme=dark)](https://github.com/dopedotcode)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopedotcode&repo=healcomp&theme=dark)](https://github.com/dopedotcode/healcomp)
-### 🗣 My activity:
-```
-<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true, "exclude": ["PushEvent"]}-->
-```
