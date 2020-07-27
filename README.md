@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Sabuhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dopedotcode&show_icons=true&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopedotcode&repo=healcomp&theme=dark)
+[![Sabuhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dopedotcode&show_icons=true&theme=dark)](https://github.com/dopedotcode)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopedotcode&repo=healcomp&theme=dark)](https://github.com/dopedotcode/healcomp)
