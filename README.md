@@ -1,4 +1,4 @@
-### Hi there, I am Sabuhi
+### Hi there, I am Sabuhi :wave: 👨‍💻
 - 🔭 I’m currently working on [healcomp](https://github.com/dopedotcode/healcomp)
 - 🌱 I’m currently learning Python
 - 🌐 Visit my [porfolio website](https://sabuhi.cf/) for complete background and contact.
