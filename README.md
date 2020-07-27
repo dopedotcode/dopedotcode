@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Sabuhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dopedotcode&show_icons=true&theme=dark)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopedotcode&repo=healcomp)]
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopedotcode&repo=healcomp&theme=dark)
